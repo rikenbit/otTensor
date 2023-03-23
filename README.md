@@ -1,0 +1,2 @@
+# otTensor
+Optimal Tensor Transport
